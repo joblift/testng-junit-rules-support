@@ -26,3 +26,5 @@ You can also execute your code within multiple Rules:
         
     }
 
+## Release
+./gradlew release -Prelease.useAutomaticVersion=true 
